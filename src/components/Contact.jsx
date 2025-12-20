@@ -71,7 +71,7 @@ const Contact = () => {
                         method="POST"
                     >
                         <input type="hidden" name="_captcha" value="false" />
-                        <input type="hidden" name="_next" value="http://localhost:5173/" />
+                        <input type="hidden" name="_next" value="https://mohini1723.github.io/MohiniPortfolio/" />
 
                         <div>
                             <label className="block text-sm font-medium text-gray-400 mb-2">Name</label>
